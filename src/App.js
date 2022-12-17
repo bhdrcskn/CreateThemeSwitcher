@@ -32,9 +32,9 @@ const Content = () => {
   return (
     <div>
       <Paragraph>
-        I am an electrical engineering student at Istanbul Technical University.
-        I have been taking trainings to be a front-end developer for a long time.
-        I supported these trainings I received along with the work I had done.
+        I'm an electrical engineering undergraduate student at Istanbul Technical University.
+        I'm interested in software development and I'm working in this direction.
+        You can find my work on GitHub.
       </Paragraph>
     </div>
   );
